@@ -1,4 +1,4 @@
-package lec_1_Recursion_1.assignment2;
+package assignment_recursion;
 /*Replace pi (recursive)
         Send Feedback
         Given a string, compute recursively a new string where all appearances of "pi" have been replaced by "3.14".

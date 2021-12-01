@@ -1,4 +1,4 @@
-package lec_1_Recursion_1.assignment2;
+package assignment_recursion;
 /*Remove X
         Send Feedback
         Given a string, compute recursively a new string where all 'x' chars have been removed.

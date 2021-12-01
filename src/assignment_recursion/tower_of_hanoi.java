@@ -1,4 +1,4 @@
-package lec_1_Recursion_1.assignment2;
+package assignment_recursion;
 /*Tower of Hanoi
         Send Feedback
         Tower of Hanoi is a mathematical puzzle where we have three rods and n disks. The objective of the puzzle is to move all disks from source rod to destination rod using third rod (say auxiliary). The rules are :
